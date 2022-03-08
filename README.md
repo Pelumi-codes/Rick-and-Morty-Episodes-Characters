@@ -1,15 +1,15 @@
 **Rick-and-Morty-Episodes**
 
 - Challenge: Rick and Morty episodes in which my character appears.
-- 
-- This project was bootstrapped with Create React App.
-- 
-- **Description**
-- 
+
+ This project was bootstrapped with Create React App.
+
+ **Description**
+
 - The Rick and Morty Characters can be shown from a list with infinite scroll implementation. 
-- 
+
 - Also, display of relevant information from the API results and images of Characters.
-- 
+
 - List of Episodes can route to a dummy Rick and Morty Thriller.
 
 
