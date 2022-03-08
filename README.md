@@ -1,6 +1,6 @@
 **Rick-and-Morty-Episodes**
 
-- Challenge: Rick and Morty episodes in which character appears.
+- Challenge: Rick and Morty characters episodes.
 
  This project was bootstrapped with Create React App.
 
