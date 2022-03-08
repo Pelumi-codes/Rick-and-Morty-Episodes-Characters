@@ -37,9 +37,15 @@ const SingleCharacter = ({ characters }) => {
             m="5px"
             flex="1"
             whiteSpace="nowrap"
+            cursor="pointer"
           >
             <Text fontSize="19" fontWeight="700">
-              <a href="https://www.youtube.com/watch?v=_uUcMwsR5hg" key={i}>
+              <a
+                href="https://www.youtube.com/watch?v=_uUcMwsR5hg"
+                target="_blank"
+                key={i}
+                rel="noreferrer"
+              >
                 Episode {ep.slice(ep.lastIndexOf("/") + 1)}
               </a>
             </Text>
