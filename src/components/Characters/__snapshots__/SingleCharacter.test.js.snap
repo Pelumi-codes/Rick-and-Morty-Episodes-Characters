@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders list of characters 1`] = `
+<div
+  className="sc-bdvvtL ctcXYO css-1xlvfn4"
+>
+  <img
+    alt="character image"
+    className="chakra-image css-1g4aiwq"
+  />
+  <div
+    className="css-1j42uzu"
+  >
+    <p
+      className="chakra-text css-hp3kxj"
+    >
+      Name: 
+    </p>
+    <p
+      className="chakra-text css-1a5tt7"
+    >
+      Status: 
+    </p>
+    <p
+      className="chakra-text css-1a5tt7"
+    >
+      Species: 
+    </p>
+    <p
+      className="chakra-text css-1lxxd5p"
+    >
+      Gender: 
+    </p>
+  </div>
+</div>
+`;

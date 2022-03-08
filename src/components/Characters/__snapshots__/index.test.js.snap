@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders list of characters 1`] = `
+<div
+  className="css-0"
+>
+  <div
+    className="css-1dnz8oy"
+  >
+    <div
+      className="css-2imjyh"
+    />
+  </div>
+</div>
+`;
