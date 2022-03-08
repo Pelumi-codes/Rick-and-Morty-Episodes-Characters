@@ -45,6 +45,10 @@ npm run test
 
 - Loadable - Lazy loading of components
 
+
+https://user-images.githubusercontent.com/79764887/157312467-9d48a012-384c-4165-9010-1c11f175d558.mov
+
+
 - Loading - awaiting component rendering alert
 
 
