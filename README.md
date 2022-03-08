@@ -46,13 +46,11 @@ npm run test
 - Loadable - Lazy loading of components
 
 
+- Loading - awaiting component rendering alert
+
 https://user-images.githubusercontent.com/79764887/157312467-9d48a012-384c-4165-9010-1c11f175d558.mov
 
 
-- Loading - awaiting component rendering alert
-
-
-- ![Demo](https://user-images.githubusercontent.com/79764887/157298067-2a52cc71-77a3-4a79-8d4d-133fff82847c.mov)
 
 - For retrieval of data both The Rick and Morty API JavaScript client and the API links from documentation are used, for purely representational purpose.
 
