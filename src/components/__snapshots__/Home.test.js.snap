@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders home button 1`] = `
+<div
+  className="css-0"
+>
+  <p
+    className="chakra-text css-134pyzd"
+  >
+    Home
+  </p>
+</div>
+`;
